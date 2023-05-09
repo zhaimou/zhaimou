@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢迎到zhaimou的个人主页;ONE是这样的)](https://git.io/typing-svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaimou&show_icons=true&theme=dracula)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaimou&repo=github-readme-stats)](https://github.com/zhaimouf/github-readme-stats)
