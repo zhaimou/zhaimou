@@ -1,7 +1,7 @@
 Hi！  i am zhaimou<br>
 A Front-end infrastructure and engineering efficiency developer. 
 
-Hello，我是zhaimou，一名热爱技术和开源的25届准前端工程师
+Hello，我是zhaimou，一名热爱技术并为之努力💪的25届准前端工程师
 
 
 - 工作经历：
